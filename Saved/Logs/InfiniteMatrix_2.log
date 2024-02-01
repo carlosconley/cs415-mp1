@@ -1799,3 +1799,196 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.02.01-18.56.40:634][413]Cmd: SELECT NONE
 [2024.02.01-18.56.43:401][511]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
 [2024.02.01-18.56.43:401][511]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.56.55:205][640]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-18.56.55:205][640]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.57.07:306][195]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-18.57.07:306][195]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.57.19:309][231]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-18.57.19:309][231]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.57.31:310][267]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-18.57.31:310][267]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.57.40:970][373]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-18.57.40:970][373]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-18.57.49:547][402]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-18.57.49:547][402]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-18.57.54:766][599]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-18.57.54:766][599]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.58.00:766][617]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-18.58.00:766][617]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.58.06:768][635]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-18.58.06:768][635]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.58.12:769][653]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-18.58.12:769][653]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.58.17:246][683]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-18.58.17:246][683]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-18.58.23:099][385]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-18.58.23:100][385]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-18.59.22:962][ 54]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-18.59.22:962][ 54]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-18.59.32:474][195]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-18.59.32:474][195]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-18.59.39:824][297]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-18.59.39:824][297]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.59.51:825][333]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-18.59.51:826][333]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-18.59.54:243][389]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-18.59.54:243][389]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.00.00:879][185]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.00.00:880][185]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.00.26:973][ 54]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.00.26:973][ 54]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.00.55:742][505]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.00.55:742][505]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.01.01:217][162]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.01.01:217][162]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.01.09:238][124]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.01.09:238][124]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.01.10:018][218]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.01.10:018][218]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.01.44:797][390]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.01.44:797][390]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.01.48:688][857]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.01.48:688][857]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.02.08:668][254]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.02.08:668][254]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.02.09:117][308]LogScript: Warning: Script Msg: The widget 'WBP_Restart_C_0' was already added to the screen.
+[2024.02.01-19.02.09:117][308]LogScript: Warning: Script Msg called by: BP_Player_C /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap:PersistentLevel.BP_Player_C_0
+[2024.02.01-19.02.11:125][549]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.02.11:125][549]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.02.28:317][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-19.02.28:317][606]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.01-19.02.28:317][606]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-19.02.28:318][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-19.02.28:322][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.01-19.02.28:327][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-19.02.28:338][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-19.02.28:339][606]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.01-19.02.28:339][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.01-19.02.28:341][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.01-19.02.28:365][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.02.01-19.02.28:397][607]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.02.01-19.03.02:536][876]LogEditorViewport: Clicking Background
+[2024.02.01-19.04.33:482][409]LogEditorViewport: Clicking Background
+[2024.02.01-19.04.51:243][314]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Enemy.BP_Enemy
+[2024.02.01-19.04.51:243][314]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.01-19.04.51:244][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.01-19.04.51:517][315]LogEditorViewport: Clicking Background
+[2024.02.01-19.05.01:371][313]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.02.01-19.05.01:371][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.01-19.05.01:371][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.01-19.05.45:330][246]LogEditorTransaction: Undo Delete current selection
+[2024.02.01-19.05.51:520][925]BlueprintLog: New page: Compile BP_Player
+[2024.02.01-19.05.51:566][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.02.01-19.05.55:152][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.01-19.05.55:242][339]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Player
+[2024.02.01-19.05.55:243][339]LogSavePackage: Moving '../../../../../../Users/Carlos Conley/Documents/Unreal Projects/InfiniteMatrixStarter/Saved/BP_Player85148A5C419B766F967D08A4471AE29C.tmp' to '../../../../../../Users/Carlos Conley/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2024.02.01-19.05.55:253][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 379 ms)
+[2024.02.01-19.05.55:255][339]AssetCheck: New page: Asset Save: BP_Player
+[2024.02.01-19.05.55:255][339]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.02.01-19.05.57:717][595]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.01-19.05.57:722][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.01-19.05.57:723][595]PIE: New page: PIE session: TutorialMap (Feb 1, 2024, 7:05:57 AM)
+[2024.02.01-19.05.57:756][595]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2024.02.01-19.05.57:758][595]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.02.01-19.05.57:764][596]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.01-19.05.57:766][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001592s)
+[2024.02.01-19.05.57:766][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.001639s)
+[2024.02.01-19.05.57:780][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.02.01-19.05.57:782][596]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.01-19.05.57:783][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.01-19.05.57:783][596]LogAIModule: Creating AISystem for world TutorialMap
+[2024.02.01-19.05.57:783][596]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2024.02.01-19.05.57:783][596]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.02.01-19.05.57:783][596]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.01-19.05.57:783][596]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.01-19.05.57:783][596]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.01-19.05.57:783][596]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.01-19.05.57:783][596]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.01-19.05.57:783][596]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.01-19.05.57:783][596]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.01-19.05.57:783][596]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.01-19.05.57:784][596]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.01-19.05.57:784][596]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.01-19.05.57:784][596]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.01-19.05.57:786][596]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.01-19.05.57:835][596]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.01-19.05.57:835][596]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.01-19.05.57:835][596]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.01-19.05.57:835][596]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.01-19.05.57:836][596]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.02.01-19.05.57:836][596]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.02.01-19.05.57:838][596]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.02.01-19.05.57:838][596]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.02.01-19.05.57:838][596]LogInit: FAudioDevice initialized with ID 11.
+[2024.02.01-19.05.57:838][596]LogAudio: Display: Audio Device (ID: 11) registered with world 'TutorialMap'.
+[2024.02.01-19.05.57:838][596]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.01-19.05.57:841][596]LogLoad: Game class is 'GM_Tutorial_C'
+[2024.02.01-19.05.57:842][596]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2024.02.01-13.05.57
+[2024.02.01-19.05.57:842][596]LogWorld: Bringing up level for play took: 0.000409
+[2024.02.01-19.05.57:848][596]PIE: Server logged in
+[2024.02.01-19.05.57:848][596]PIE: Play in editor total start time 0.126 seconds.
+[2024.02.01-19.06.01:173][949]LogSlate: Window 'BP_Player' being destroyed
+[2024.02.01-19.06.01:181][949]LogSlate: Window 'BP_Player' being destroyed
+[2024.02.01-19.06.01:184][949]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-19.06.01:184][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-19.06.01:220][949]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.01-19.06.01:221][949]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-19.06.01:221][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-19.06.02:012][ 40]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.06.02:012][ 40]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.01-19.06.02:602][111]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.06.02:603][111]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.06.04:596][350]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.06.04:596][350]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.06.05:528][462]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.06.05:528][462]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.06.14:356][521]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.06.14:356][521]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.06.15:280][632]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.06.15:280][632]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.06.31:141][535]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.06.31:141][535]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.06.42:983][ 59]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.06.42:983][ 59]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.07.14:091][790]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.07.14:091][790]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.07.14:815][877]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.07.14:815][877]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.07.24:351][ 21]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.07.24:351][ 21]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.07.24:967][ 95]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.07.24:967][ 95]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.07.50:987][216]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.07.50:987][216]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.07.51:512][279]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.07.51:512][279]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.08.19:165][597]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.08.19:165][597]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.08.19:406][626]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.08.19:406][626]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.08.49:434][228]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.01-19.08.49:434][228]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.01-19.08.49:934][288]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.01-19.08.49:934][288]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.01-19.08.57:897][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-19.08.57:897][239]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2024.02.01-19.08.57:897][239]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-19.08.57:897][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-19.08.57:901][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.01-19.08.57:905][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.01-19.08.57:917][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.01-19.08.57:918][239]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.01-19.08.57:918][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.01-19.08.57:920][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.01-19.08.57:927][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-19.08.57:931][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.01-19.08.57:990][241]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.01-19.09.13:136][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.01-19.09.13:231][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.01-19.09.13:240][557]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Maps/TutorialMap
+[2024.02.01-19.09.13:240][557]LogSavePackage: Moving '../../../../../../Users/Carlos Conley/Documents/Unreal Projects/InfiniteMatrixStarter/Saved/TutorialMapD6B3ED3B48AAA0D94464BD9202CC9C61.tmp' to '../../../../../../Users/Carlos Conley/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2024.02.01-19.09.13:246][557]LogFileHelpers: Saving map 'TutorialMap' took 0.049
+[2024.02.01-19.09.13:253][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 496 ms)
+[2024.02.01-19.09.13:255][557]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.01-19.09.13:255][557]LogContentValidation: Display: Validating /Script/Engine.World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2024.02.01-19.09.13:255][557]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
